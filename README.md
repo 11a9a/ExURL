@@ -19,4 +19,4 @@ Google Chrome extension that expands shortened urls from almost all popular shor
 -adf.ly/ 
 -is.gd/
 
-Backend files are running on heroku this heroku server: https://softwaretech-backend.herokuapp.com/
+Backend files are running on this heroku server: https://softwaretech-backend.herokuapp.com/
